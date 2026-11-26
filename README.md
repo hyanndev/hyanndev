@@ -7,11 +7,12 @@
   <b>Procurando estágio em desenvolvimento back-end e IA</b>
 </p>
 
+
 <p align="center">
   <a href="https://hyanndev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hyann-dos-santos-espindas-2558a4356/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contato.hyann@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+<p align="center">✉️ <b>contato.hyann@gmail.com</b></p>
 
 ---
 
