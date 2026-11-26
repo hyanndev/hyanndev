@@ -22,24 +22,34 @@
 - 🚀 **Entrega de ponta a ponta:** dois projetos de IA no ar, com testes automatizados, limite de uso e deploy na Vercel.
 - ☕ **Base sólida:** Java (POO e DDD), Python, SQL Oracle e modelagem de dados.
 
-## Projetos que você pode abrir agora
+## Projetos
 
-| Projeto | O que faz | Resultado | Links |
-|---|---|---|---|
-| **Estudaí** | Assistente de estudos com RAG. Responde só com base nos seus PDFs e textos e mostra o trecho de origem | 15/15 em fonte e passagem na avaliação própria. Recusa perguntas fora do material | [Demo](https://estudai-woad.vercel.app) · [Código](https://github.com/hyanndossantosespindas/estudai) |
-| **Desconfia** | Analisa uma mensagem e diz a chance de ser golpe, com explicação em linguagem simples | Cerca de 83% de acurácia em validação cruzada (base pequena, prova de conceito) | [Demo](https://desconfia-three.vercel.app) · [Código](https://github.com/hyanndossantosespindas/desconfia) |
+### 1. Estudaí · assistente de estudos com IA (RAG)
+**Problema:** modelos de linguagem respondem com confiança mesmo sem saber, e quem estuda precisa conferir de onde veio a informação.
+**Solução:** você envia seus PDFs e textos e pergunta em linguagem natural. O Estudaí busca os trechos mais relevantes, responde **só com base neles** e mostra a fonte. Se o material não sustenta a resposta, ele diz que não encontrou.
+**Resultado:** 15/15 em fonte e passagem corretas na avaliação própria, com sessões isoladas por visitante, limite de uso e testes automatizados.
+`Python` `FastAPI` `RAG` `Gemini API` `NumPy` `pytest` `Vercel`
+**[Abrir demo](https://estudai-woad.vercel.app)** · **[Código](https://github.com/hyanndossantosespindas/estudai)**
 
-### Também no meu histórico
+### 2. Desconfia · detector de mensagens suspeitas
+**Problema:** golpes por mensagem atingem principalmente quem tem pouca familiaridade com tecnologia.
+**Solução:** você cola a mensagem e recebe a chance de ser golpe, o motivo em linguagem simples e o que fazer. Um classificador de machine learning calcula o risco e o Gemini escreve a explicação.
+**Resultado:** cerca de 83% de acurácia em validação cruzada. A base é pequena e fictícia, então é uma prova de conceito, e isso está explícito no README.
+`Python` `FastAPI` `scikit-learn` `Gemini API` `Vercel`
+**[Abrir demo](https://desconfia-three.vercel.app)** · **[Código](https://github.com/hyanndossantosespindas/desconfia)**
 
-**VAOX · Voz Análise Organizacional X** · SaaS de NLP que detecta risco de churn, menções a concorrentes e oportunidades de upsell em reuniões. Equipe de 5, apresentado à banca da **TOTVS**.
+### 3. VAOX · Voz Análise Organizacional X
+**Problema:** reuniões comerciais guardam sinais importantes que se perdem, como risco de cancelamento de clientes, citação de concorrentes e chance de venda adicional.
+**Solução:** plataforma SaaS que usa NLP para analisar as reuniões e detectar risco de churn, menções a concorrentes e oportunidades de upsell.
+**Contexto:** projeto em equipe de 5 pessoas, apresentado à banca da **TOTVS**.
 `Java (DDD)` `Python` `Oracle SQL` `NLP`
+**[Código](LINK-DO-REPOSITORIO-VAOX)**
 
-[Código](LINK-DO-REPOSITORIO-VAOX)
-
-**PyroSat · monitoramento de incêndios florestais** · Detecção e resposta com dados dos satélites GOES-16, Sentinel-2 e VIIRS, roteamento com BFS e Dijkstra, persistência em Oracle e modelagem 3D em AR/VR.
+### 4. PyroSat · monitoramento de incêndios florestais
+**Problema:** detectar um incêndio florestal cedo e organizar a resposta.
+**Solução:** sistema que integra dados dos satélites GOES-16, Sentinel-2 e VIIRS para detectar focos, usa algoritmos BFS e Dijkstra para o roteamento da resposta e guarda os dados em Oracle. Inclui modelagem 3D em AR/VR no Autodesk Maya.
 `Python` `Java (DDD)` `Oracle SQL` `Arduino` `Autodesk Maya`
-
-[Código](LINK-DO-REPOSITORIO-PYROSAT)
+**[Código](LINK-DO-REPOSITORIO-PYROSAT)**
 
 ## Como eu trabalho
 
