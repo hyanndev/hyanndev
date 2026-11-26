@@ -15,7 +15,7 @@
 
 ---
 
-## Em 30 segundos
+## Destaque
 
 - 🏢 **Projeto real com a TOTVS:** plataforma SaaS de NLP para reuniões comerciais, feita em equipe de 5 e apresentada à banca da empresa.
 - 🤖 **IA com critério:** RAG com avaliação própria (15/15 de acerto de fonte e passagem) e recusa quando o material não sustenta a resposta.
