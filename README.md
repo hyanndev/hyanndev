@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://hyanndev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hyann-dos-santos-espindas-2558a4356/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contato.hyann@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -29,17 +29,17 @@
 | **Estudaí** | Assistente de estudos com RAG. Responde só com base nos seus PDFs e textos e mostra o trecho de origem | 15/15 em fonte e passagem na avaliação própria. Recusa perguntas fora do material | [Demo](https://estudai-woad.vercel.app) · [Código](https://github.com/hyanndossantosespindas/estudai) |
 | **Desconfia** | Analisa uma mensagem e diz a chance de ser golpe, com explicação em linguagem simples | Cerca de 83% de acurácia em validação cruzada (base pequena, prova de conceito) | [Demo](https://desconfia-three.vercel.app) · [Código](https://github.com/hyanndossantosespindas/desconfia) |
 
-<p align="center">
-  <a href="https://estudai-woad.vercel.app"><img alt="Estudaí" src="https://raw.githubusercontent.com/hyanndossantosespindas/estudai/main/docs/captura.png" width="720"></a>
-</p>
-
 ### Também no meu histórico
 
 **VAOX · Voz Análise Organizacional X** · SaaS de NLP que detecta risco de churn, menções a concorrentes e oportunidades de upsell em reuniões. Equipe de 5, apresentado à banca da **TOTVS**.
 `Java (DDD)` `Python` `Oracle SQL` `NLP`
 
+[Código](LINK-DO-REPOSITORIO-VAOX)
+
 **PyroSat · monitoramento de incêndios florestais** · Detecção e resposta com dados dos satélites GOES-16, Sentinel-2 e VIIRS, roteamento com BFS e Dijkstra, persistência em Oracle e modelagem 3D em AR/VR.
 `Python` `Java (DDD)` `Oracle SQL` `Arduino` `Autodesk Maya`
+
+[Código](LINK-DO-REPOSITORIO-PYROSAT)
 
 ## Como eu trabalho
 
@@ -77,6 +77,6 @@ Estágio em **desenvolvimento back-end (Java) e IA aplicada**, em um time onde e
 <p align="center">
   <b>Vamos conversar?</b><br>
   <a href="https://hyanndev.vercel.app/">Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/hyann-dos-santos-espindas-2558a4356/">LinkedIn</a> ·
   <a href="mailto:contato.hyann@gmail.com">contato.hyann@gmail.com</a>
 </p>
