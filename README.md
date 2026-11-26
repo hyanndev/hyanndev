@@ -1,58 +1,64 @@
-<h1 align="center">Hyann dos Santos Espindas</h1>
+<h1 align="center">Olá, eu sou o Hyann 👋</h1>
+
+<h3 align="center">Back-end em Java e Python, com IA aplicada.<br>Construo sistemas que funcionam, têm teste e estão no ar.</h3>
 
 <p align="center">
-  Desenvolvedor back-end em formação · Java e Python · IA aplicada<br>
-  Engenharia de Software na FIAP (4º semestre) · São Paulo, SP
+  Engenharia de Software · FIAP · 4º semestre · São Paulo, SP<br>
+  <b>Procurando estágio em desenvolvimento back-end e IA</b>
 </p>
 
 <p align="center">
+  <a href="https://hyanndev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/SEU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contato.hyann@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://hyann.dev"><img alt="Site" src="https://img.shields.io/badge/hyann.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 ---
 
-## Sobre mim
+## Em 30 segundos
 
-Estudo Engenharia de Software e construo back-ends com **Java (DDD)** e **Python**. Participei de um projeto em parceria com a **TOTVS**, uma plataforma SaaS com NLP para análise de reuniões comerciais, e agora estou aprofundando em **IA aplicada**: RAG, embeddings e classificação de texto.
+- 🏢 **Projeto real com a TOTVS:** plataforma SaaS de NLP para reuniões comerciais, feita em equipe de 5 e apresentada à banca da empresa.
+- 🤖 **IA com critério:** RAG com avaliação própria (15/15 de acerto de fonte e passagem) e recusa quando o material não sustenta a resposta.
+- 🚀 **Entrega de ponta a ponta:** dois projetos de IA no ar, com testes automatizados, limite de uso e deploy na Vercel.
+- ☕ **Base sólida:** Java (POO e DDD), Python, SQL Oracle e modelagem de dados.
 
-Procuro estágio em **desenvolvimento back-end e IA**, para contribuir com projetos de impacto e continuar evoluindo como engenheiro de software.
+## Projetos que você pode abrir agora
 
-## Projetos em destaque
+| Projeto | O que faz | Resultado | Links |
+|---|---|---|---|
+| **Estudaí** | Assistente de estudos com RAG. Responde só com base nos seus PDFs e textos e mostra o trecho de origem | 15/15 em fonte e passagem na avaliação própria. Recusa perguntas fora do material | [Demo](https://estudai-woad.vercel.app) · [Código](https://github.com/hyanndossantosespindas/estudai) |
+| **Desconfia** | Analisa uma mensagem e diz a chance de ser golpe, com explicação em linguagem simples | Cerca de 83% de acurácia em validação cruzada (base pequena, prova de conceito) | [Demo](https://desconfia-three.vercel.app) · [Código](https://github.com/hyanndossantosespindas/desconfia) |
 
-### Estudaí · assistente de estudos com RAG
-Responde perguntas **somente com base nos materiais do usuário** (`.txt` e `.pdf`) e mostra o trecho de onde veio cada resposta. Recusa responder quando nada nos materiais sustenta a resposta.
+<p align="center">
+  <a href="https://estudai-woad.vercel.app"><img alt="Estudaí" src="https://raw.githubusercontent.com/hyanndossantosespindas/estudai/main/docs/captura.png" width="720"></a>
+</p>
 
-- Busca semântica com embeddings do Gemini, divisão por seções e limiar de relevância calibrado.
-- Avaliação própria com 15 perguntas: **15/15** de fonte correta e **15/15** de passagem correta.
-- Sessões isoladas por visitante, limites de uso e testes automatizados.
+### Também no meu histórico
 
-`Python` `FastAPI` `RAG` `Gemini API` `NumPy` `pytest` `Vercel`
-
-[Testar online](https://estudai-woad.vercel.app) · [Código](https://github.com/hyanndossantosespindas/estudai)
-
-### Desconfia · detector de mensagens suspeitas
-Você cola uma mensagem e o Desconfia mostra a chance de ser golpe, explica o motivo em linguagem simples e diz o que fazer.
-
-- Classificador com TF-IDF e Regressão Logística (scikit-learn), cerca de 83% de acurácia em validação cruzada (base de 64 mensagens fictícias, uma prova de conceito).
-- Explicação gerada pelo Gemini, com defesa contra prompt injection e limite de uso.
-
-`Python` `FastAPI` `scikit-learn` `Gemini API` `Vercel`
-
-[Testar online](https://desconfia-three.vercel.app) · [Código](https://github.com/hyanndossantosespindas/desconfia)
-
-### VAOX · Voz Análise Organizacional X
-Plataforma SaaS de NLP para análise de reuniões comerciais. Detecta risco de churn, menções a concorrentes e oportunidades de upsell. Desenvolvida em equipe de 5 pessoas e apresentada à banca da **TOTVS**.
-
+**VAOX · Voz Análise Organizacional X** · SaaS de NLP que detecta risco de churn, menções a concorrentes e oportunidades de upsell em reuniões. Equipe de 5, apresentado à banca da **TOTVS**.
 `Java (DDD)` `Python` `Oracle SQL` `NLP`
 
-### PyroSat · monitoramento de incêndios florestais
-Sistema de detecção e resposta a incêndios com dados dos satélites GOES-16, Sentinel-2 e VIIRS. Usa BFS e Dijkstra para roteamento e Oracle para persistência, com modelagem 3D em AR/VR (Autodesk Maya).
-
+**PyroSat · monitoramento de incêndios florestais** · Detecção e resposta com dados dos satélites GOES-16, Sentinel-2 e VIIRS, roteamento com BFS e Dijkstra, persistência em Oracle e modelagem 3D em AR/VR.
 `Python` `Java (DDD)` `Oracle SQL` `Arduino` `Autodesk Maya`
 
-## Habilidades técnicas
+## Como eu trabalho
+
+- **Meço antes de afirmar.** No Estudaí criei um conjunto de perguntas de teste, achei uma falha (14/15), troquei a estratégia de divisão dos textos e cheguei a 15/15.
+- **Penso em segurança e custo.** Limites de uso, sessões isoladas, validação de arquivos, defesa contra prompt injection e chaves fora do código.
+- **Escrevo teste e documentação.** Cada projeto tem README com limitações honestas, testes com pytest e instruções para rodar.
+
+## Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 | Área | Tecnologias |
 |---|---|
@@ -61,14 +67,16 @@ Sistema de detecção e resposta a incêndios com dados dos satélites GOES-16, 
 | **Banco de dados** | Oracle SQL, modelagem relacional, DDL, normalização (3FN) |
 | **Front-end** | React.js, Tailwind CSS, HTML5, CSS3, JavaScript |
 | **Qualidade e entrega** | pytest, Git e GitHub, Vercel, IntelliJ IDEA, Astah (UML) |
-| **Outros** | Arduino e C++, algoritmos (programação dinâmica, grafos) |
 
-## Formação
+## O que estou buscando
 
-**FIAP** · Engenharia de Software · 2025 a 2028
+Estágio em **desenvolvimento back-end (Java) e IA aplicada**, em um time onde eu possa entregar código de verdade e aprender com engenheiros mais experientes. Disponível em São Paulo, SP.
 
 ---
 
 <p align="center">
-  Aberto a conversar sobre estágio e projetos. Feedbacks são muito bem-vindos.
+  <b>Vamos conversar?</b><br>
+  <a href="https://hyanndev.vercel.app/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> ·
+  <a href="mailto:contato.hyann@gmail.com">contato.hyann@gmail.com</a>
 </p>
